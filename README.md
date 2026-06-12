@@ -32,6 +32,8 @@ Works directly with static hosting:
 - Netlify
 - GitHub Pages
 
+Vercel git deployments are configured in [vercel.json](/Users/dariuszbialas/dmb-labs/vercel.json) so only `main` auto-deploys once the project is connected in Vercel.
+
 ## Git ignore
 
 The repo ignores local OS files, editor settings, logs, environment files, and dependency caches. See [/.gitignore](/Users/dariuszbialas/dmb-labs/.gitignore).
