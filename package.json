@@ -1,0 +1,9 @@
+{
+  "name": "dmb-labs-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static DMB Labs landing page",
+  "scripts": {
+    "dev": "npx --yes serve -l 4173 ."
+  }
+}

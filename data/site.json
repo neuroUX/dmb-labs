@@ -1,0 +1,27 @@
+{
+  "studio": {
+    "name": "DMB Labs",
+    "tagline": "Building small, focused digital products",
+    "email": "hello@dmb-labs.com"
+  },
+  "products": [
+    {
+      "slug": "gigly",
+      "name": "Gigly",
+      "status": "In development",
+      "description": "Local discovery feed for interesting things around you."
+    },
+    {
+      "slug": "audity",
+      "name": "Audity",
+      "status": "Prototype",
+      "description": "AI-powered audio analysis and feedback tool."
+    },
+    {
+      "slug": "synergia-music",
+      "name": "Synergia Music",
+      "status": "In progress",
+      "description": "Collaborative platform for music creators."
+    }
+  ]
+}
