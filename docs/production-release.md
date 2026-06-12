@@ -13,6 +13,21 @@ Suggested flow:
 3. When ready, `develop` is merged into `main`.
 4. `main` triggers production deploy.
 
+## Simple GitHub / Vercel flow
+
+Use this lightweight setup for the first release:
+
+1. Create `feature/*` branches from `develop`.
+2. Merge finished work into `develop` and let Vercel preview that branch.
+3. When the release is ready, merge `develop` into `main`.
+4. Let Vercel deploy `main` to production.
+5. Tag the release on `main` if you want a simple rollback point.
+
+Recommended branch mapping:
+
+- GitHub: `main` for production, `develop` for integration, `feature/*` for tasks.
+- Vercel: connect the repo once, then set `main` as Production and `develop` as Preview.
+
 ## Release rules
 
 - Only polished, reviewed changes reach `main`.

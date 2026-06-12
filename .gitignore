@@ -1,0 +1,27 @@
+.DS_Store
+Thumbs.db
+
+# Local dependencies and tooling caches
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+.yarn-cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and runtime files
+*.log
+logs/
+
+# Editor and OS metadata
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+coverage/
