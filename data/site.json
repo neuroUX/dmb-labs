@@ -6,10 +6,20 @@
   },
   "products": [
     {
-      "slug": "gigly",
-      "name": "Gigly",
-      "status": "In development",
-      "description": "Local discovery feed for interesting things around you."
+      "slug": "zilly",
+      "name": "Zilly",
+      "status": "Live",
+      "series": "Cyfrowy Rodzic",
+      "version": "1.0.1",
+      "segment": "Parents of school-age children",
+      "promise": "Simple points system and weekly allowance settlement",
+      "description": "A home points system for children with weekly allowance reconciliation and read-only balance view."
+    },
+    {
+      "slug": "synergia-music",
+      "name": "Synergia Music",
+      "status": "In progress",
+      "description": "Collaborative platform for music creators."
     },
     {
       "slug": "audity",
@@ -18,10 +28,10 @@
       "description": "AI-powered audio analysis and feedback tool."
     },
     {
-      "slug": "synergia-music",
-      "name": "Synergia Music",
-      "status": "In progress",
-      "description": "Collaborative platform for music creators."
+      "slug": "gigly",
+      "name": "Gigly",
+      "status": "In development",
+      "description": "Local discovery feed for interesting things around you."
     }
   ]
 }
