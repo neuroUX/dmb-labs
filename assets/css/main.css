@@ -75,7 +75,7 @@ body::after {
 }
 
 .hero-marquee-vertical {
-  animation: hero-marquee-vertical 10s steps(5, end) infinite;
+  animation: hero-marquee-vertical 10s linear infinite;
   will-change: transform;
 }
 
@@ -120,10 +120,32 @@ body::after {
 }
 
 @keyframes hero-marquee-vertical {
-  from {
+  0%,
+  18% {
     transform: translateY(0);
   }
-  to {
+
+  20%,
+  38% {
+    transform: translateY(-10%);
+  }
+
+  40%,
+  58% {
+    transform: translateY(-20%);
+  }
+
+  60%,
+  78% {
+    transform: translateY(-30%);
+  }
+
+  80%,
+  98% {
+    transform: translateY(-40%);
+  }
+
+  100% {
     transform: translateY(-50%);
   }
 }
