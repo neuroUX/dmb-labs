@@ -1,0 +1,89 @@
+{
+  "page.title": "DMB Labs",
+
+  "nav.latest_updates": "Latest Updates",
+  "nav.contact": "Contact",
+
+  "hero.tagline": "Building small, focused software products.",
+  "hero.subtagline": "Turning ideas into usable digital tools across music, sport, AI and consumer experiences.",
+  "hero.cta_products": "View Products",
+  "hero.cta_contact": "Contact",
+
+  "what_we_do.label": "What we do",
+  "what_we_do.heading": "How we build",
+  "what_we_do.product_dev.title": "Product Development",
+  "what_we_do.product_dev.body": "Building and launching software products from idea to market.",
+  "what_we_do.ai_apps.title": "AI Applications",
+  "what_we_do.ai_apps.body": "Exploring practical uses of AI in creative and consumer products.",
+  "what_we_do.digital_exp.title": "Digital Experiences",
+  "what_we_do.digital_exp.body": "Creating tools that help people discover, create and collaborate.",
+
+  "products.label": "What ships",
+  "products.heading": "Recent launches",
+  "products.subheading": "Four live products across collaboration, audio intelligence, family tools, and creative direction.",
+  "products.pill": "LIVE PRODUCTS",
+
+  "products.zilly.subtitle": "Digital Parent",
+  "products.zilly.description": "Reward points system and weekly allowance settlement for families with school-age children. Built to track positive and negative behaviors, balance goals, and keep a clear history of changes.",
+  "products.zilly.chip1": "Parents of school-age children",
+  "products.zilly.chip2": "Weekly allowance",
+  "products.zilly.chip3": "Points history",
+  "products.zilly.chip4": "Read-only child view",
+
+  "products.synergia.description": "Platform for music collaboration from first idea to final release. Structured workflow, file exchange, feedback loops, and copyright split snapshots.",
+  "products.synergia.chip1": "5-step creation flow",
+  "products.synergia.chip2": "Team collaboration",
+  "products.synergia.chip3": "Rights split snapshot",
+  "products.synergia.chip4": "Community feedback",
+  "products.synergia.cta": "Visit Synergia Music™",
+
+  "products.audity.description": "AI-assisted pre-release decision layer for tracks. Upload audio and get a clear SIGN / DEVELOP / PASS verdict with structured analysis.",
+  "products.audity.chip1": "Verdict under 2 min",
+  "products.audity.chip2": "3 expert perspectives",
+  "products.audity.chip3": "No training on user music",
+  "products.audity.chip4": "Prototype free access",
+  "products.audity.cta": "Visit Audity",
+
+  "products.artist.description": "Composer and creative systems profile combining cinematic scoring, game audio workflows, and founder-level product direction.",
+  "products.artist.chip1": "Audio-visual showreel",
+  "products.artist.chip2": "Game and film scoring",
+  "products.artist.chip3": "FMOD and adaptive audio",
+  "products.artist.chip4": "Open collaboration",
+  "products.artist.cta": "Open portfolio",
+
+  "products.gigly.pipeline_label": "Next in pipeline",
+  "products.gigly.pipeline_badge": "In development",
+  "products.gigly.description": "local discovery platform for finding events, places and real-time experiences nearby.",
+  "products.gigly.chip1": "Coming soon",
+  "products.gigly.chip2": "Local discovery",
+  "products.gigly.chip3": "Consumer app",
+
+  "products.sports.preview_label": "Preview",
+  "products.sports.heading": "Future Sports Products",
+  "products.sports.body": "Football-focused digital tools.",
+  "products.sports.cta": "→ Coming soon",
+
+  "updates.label": "Logbook",
+  "updates.heading": "Latest Notes",
+  "updates.period": "June 2026",
+  "updates.gigly.note": "Started testing local event collection in Bielsko-Biała.",
+  "updates.audity.note": "Built first audio analysis workflow.",
+  "updates.synergia.note": "Defined Copilot MVP architecture.",
+
+  "philosophy.label": "Method",
+  "philosophy.heading": "Building Philosophy",
+  "philosophy.small.title": "Small",
+  "philosophy.small.body": "Small teams. Small products. Fast learning.",
+  "philosophy.focused.title": "Focused",
+  "philosophy.focused.body": "Every product solves one specific problem.",
+  "philosophy.iterative.title": "Iterative",
+  "philosophy.iterative.body": "Ship. Learn. Improve.",
+  "philosophy.independent.title": "Independent",
+  "philosophy.independent.body": "Built without external pressure.",
+
+  "contact.label": "Get in touch",
+  "contact.heading": "Contact",
+  "contact.email_prefix": "Email:",
+
+  "footer.copy": "© 2026 DMB Labs — Independent product studio founded by Dariusz Białas."
+}
