@@ -1,0 +1,89 @@
+{
+  "page.title": "DMB Labs",
+
+  "nav.latest_updates": "Aktualności",
+  "nav.contact": "Kontakt",
+
+  "hero.tagline": "Tworzymy małe, wyspecjalizowane produkty cyfrowe.",
+  "hero.subtagline": "Zamieniamy pomysły w użyteczne narzędzia cyfrowe — dla muzyki, sportu i konsumentów.",
+  "hero.cta_products": "Zobacz produkty",
+  "hero.cta_contact": "Kontakt",
+
+  "what_we_do.label": "Co robimy",
+  "what_we_do.heading": "Jak budujemy",
+  "what_we_do.product_dev.title": "Tworzenie produktów",
+  "what_we_do.product_dev.body": "Budujemy i wdrażamy produkty cyfrowe — od pomysłu do rynku.",
+  "what_we_do.ai_apps.title": "Aplikacje AI",
+  "what_we_do.ai_apps.body": "Badamy praktyczne zastosowania AI w produktach kreatywnych i konsumenckich.",
+  "what_we_do.digital_exp.title": "Doświadczenia cyfrowe",
+  "what_we_do.digital_exp.body": "Tworzymy narzędzia, które pomagają odkrywać, tworzyć i współpracować.",
+
+  "products.label": "Co dostarczamy",
+  "products.heading": "Ostatnie premiery",
+  "products.subheading": "Cztery działające produkty: współpraca, analiza dźwięku, narzędzia dla rodzin i profil artystyczny.",
+  "products.pill": "AKTYWNE PRODUKTY",
+
+  "products.zilly.subtitle": "Cyfrowy Rodzic",
+  "products.zilly.description": "Punktowy system nagród i tygodniowe rozliczenie kieszonkowego dla rodzin z dziećmi w wieku szkolnym. Śledzi zachowania, cele i historię zmian.",
+  "products.zilly.chip1": "Rodzice dzieci w wieku szkolnym",
+  "products.zilly.chip2": "Tygodniowe kieszonkowe",
+  "products.zilly.chip3": "Historia punktów",
+  "products.zilly.chip4": "Widok dziecka (tylko odczyt)",
+
+  "products.synergia.description": "Platforma do współpracy muzycznej od pierwszego pomysłu do finalnego wydania. Uporządkowany proces pracy, wymiana plików, obieg informacji zwrotnej i zapisy stanu praw autorskich.",
+  "products.synergia.chip1": "5-etapowy proces tworzenia",
+  "products.synergia.chip2": "Współpraca zespołowa",
+  "products.synergia.chip3": "Zapis stanu praw autorskich",
+  "products.synergia.chip4": "Opinie społeczności",
+  "products.synergia.cta": "Odwiedź Synergia Music™",
+
+  "products.audity.description": "System decyzyjny wspomagany AI dla nagrań przed wydaniem. Prześlij plik audio i otrzymaj werdykt SIGN / DEVELOP / PASS wraz z ustrukturyzowaną analizą.",
+  "products.audity.chip1": "Werdykt w mniej niż 2 minuty",
+  "products.audity.chip2": "3 perspektywy eksperckie",
+  "products.audity.chip3": "Brak trenowania modeli na muzyce użytkownika",
+  "products.audity.chip4": "Darmowy dostęp do prototypu",
+  "products.audity.cta": "Odwiedź Audity",
+
+  "products.artist.description": "Profil kompozytora łączący muzykę filmową, audio do gier i kierunek produktowy na poziomie założyciela.",
+  "products.artist.chip1": "Showreel audiowizualny",
+  "products.artist.chip2": "Muzyka do gier i filmów",
+  "products.artist.chip3": "FMOD i adaptacyjne audio",
+  "products.artist.chip4": "Otwarta współpraca",
+  "products.artist.cta": "Otwórz portfolio",
+
+  "products.gigly.pipeline_label": "Następny w kolejce",
+  "products.gigly.pipeline_badge": "W trakcie tworzenia",
+  "products.gigly.description": "Lokalna platforma odkrywania wydarzeń, miejsc i doświadczeń w czasie rzeczywistym w pobliżu.",
+  "products.gigly.chip1": "Wkrótce",
+  "products.gigly.chip2": "Odkryj lokalnie",
+  "products.gigly.chip3": "Aplikacja konsumencka",
+
+  "products.sports.preview_label": "Podgląd",
+  "products.sports.heading": "Przyszłe produkty sportowe",
+  "products.sports.body": "Narzędzia cyfrowe dla piłki nożnej.",
+  "products.sports.cta": "→ Wkrótce",
+
+  "updates.label": "Dziennik",
+  "updates.heading": "Ostatnie notatki",
+  "updates.period": "Czerwiec 2026",
+  "updates.gigly.note": "Rozpoczęto testy zbierania lokalnych wydarzeń w Bielsku-Białej.",
+  "updates.audity.note": "Zbudowano pierwszy proces analizy dźwięku.",
+  "updates.synergia.note": "Zdefiniowano architekturę MVP Copilota.",
+
+  "philosophy.label": "Metoda",
+  "philosophy.heading": "Filozofia budowania",
+  "philosophy.small.title": "Małe",
+  "philosophy.small.body": "Małe zespoły. Małe produkty. Szybka nauka.",
+  "philosophy.focused.title": "Skoncentrowane",
+  "philosophy.focused.body": "Każdy produkt rozwiązuje jeden konkretny problem.",
+  "philosophy.iterative.title": "Iteracyjne",
+  "philosophy.iterative.body": "Wysyłaj. Ucz się. Ulepszaj.",
+  "philosophy.independent.title": "Niezależne",
+  "philosophy.independent.body": "Budowane bez zewnętrznej presji.",
+
+  "contact.label": "Skontaktuj się",
+  "contact.heading": "Kontakt",
+  "contact.email_prefix": "E-mail:",
+
+  "footer.copy": "© 2026 DMB Labs — Niezależne studio produktowe założone przez Dariusza Białasa."
+}
